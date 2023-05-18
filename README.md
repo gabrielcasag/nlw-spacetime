@@ -9,5 +9,7 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 
 
 <p align="center">
-  Feito com 💜 no NLW da @Rocketseat
+  Feito com 💜 no NLW da <a href="https://github.com/rocketseat-education">
+  @Rocketseat
+  </a>
 </p>
